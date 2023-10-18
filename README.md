@@ -13,6 +13,7 @@ Entidades Agenda
 * Codigo
 * Recursos Especiales
 * Recordatorio de Cita
+* No. de expediente si son de primera vez o subsecuentes
 
 
 > [!IMPORTANT]
