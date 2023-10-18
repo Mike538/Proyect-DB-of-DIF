@@ -3,62 +3,65 @@
 Entidades Agenda
 -------------------------------------------
 
-Cita:
+> [!IMPORTANT]
+> Cita:
 
-Fecha
-Hora
-Duración
-Motivo de la Cita
-Notas Clínicas
-Pago
-Estado de la Cita
-Recursos Especiales
-Recordatorio de Cita
-
-
-Paciente:
-
-Nombre
-Apellido
-Fecha de Nacimiento
-Género
-Dirección
-Número de Teléfono
-Correo Electrónico
-Contacto de Emergencia
-Condiciones Médicas
+*clave id
+* Fecha
+* Hora
+* Motivo de la Cita
+* Codigo
+* Recursos Especiales
+* Recordatorio de Cita
 
 
-Psicologa:
+> [!IMPORTANT]
+> Paciente:
 
-Nombre
-Apellido
-Especialización
-Número de Licencia
-Horario de Disponibilidad
-Datos de Contacto
-Tipo de Terapia
-
-
-Grupo de Edad:
-
-Nombre del Grupo (por ejemplo, "Niños", "Adolescentes", "Adultos")
-Edad Mínima
-Edad Máxima
+* Nombre
+* Apellido
+* Género
+* Dirección
+* Número de Teléfono
+* Correo Electrónico
+* Contacto de Emergencia
+* Condiciones Médicas
 
 
-Estado de la Cita:
+> [!IMPORTANT]
+> Psicologa:
 
-Nombre del Estado (por ejemplo, "Programada", "Confirmada", "En Progreso", "Completada", "Cancelada")
+* Nombre
+* Apellido
+* Especialización
+* Número de Licencia
+* Horario de Disponibilidad
+* Datos de Contacto
+* Tipo de Terapia
 
 
-Recepción:
+> [!IMPORTANT]
+> Grupo de Edad:
 
-Nombre
-Apellido
-Rol en la Recepción
-Horario de Trabajo
-Datos de Contacto
+* Nombre del Grupo (por ejemplo, "Niños", "Adolescentes", "Adultos")
+* Edad Mínima
+* Edad Máxima
+
+
+> [!IMPORTANT]
+> Estado de la Cita:
+
+* Nombre del Estado (por ejemplo, "Programada", "Confirmada", "En Progreso", "Completada", "Cancelada")
+
+
+> [!IMPORTANT]
+> Recepción:
+
+* Nombre
+* Apellido
+* Rol en la Recepción
+* Horario de Trabajo
+* Datos de Contacto
 
 
 Estos son ejemplos de atributos que podrías considerar para cada entidad en tu sistema de gestión de citas psicológicas. Por supuesto, la elección de atributos dependerá de las necesidades específicas de tu clínica o centro de atención psicológica. Asegúrate de incluir todos los datos necesarios para el funcionamiento eficiente de tu sistema y el cumplimiento de las regulaciones de privacidad de datos aplicables en tu área. Además, ten en cuenta que algunos atributos pueden ser opcionales o requeridos según la situación y los requisitos legales y de seguridad de la información.
